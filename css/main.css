@@ -67,7 +67,7 @@ p {
 
 .container {
   background-color: white;
-  background-image: url(/public/images/background.jpg);
+  background-image: url(/images/background.jpg);
   background-size: 100% 100%;
   box-shadow: 0 0 20px 2px rgba(0, 0, 0, 0.1);
   height: 100vh;
@@ -263,4 +263,6 @@ header nav {
 
 .w-3 {
   width: 12;
-}/*# sourceMappingURL=main.css.map */
+}
+
+/*# sourceMappingURL=main.css.map */

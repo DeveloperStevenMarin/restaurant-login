@@ -32,7 +32,7 @@ p{
 
 .container {
   background-color: $terciary-color;
-  background-image: url(/public/images/background.jpg);
+  background-image: $background-image;
   background-size: 100% 100%;
   box-shadow: 0 0 20px 2px rgba(0, 0, 0, 0.1);
   height: 100vh
